@@ -1,0 +1,23 @@
+.scoreboard {
+  margin-top: 40px;
+  align-items: center;
+}
+
+.correct-incorrect {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.correct {
+  color: #7cc6fe;
+}
+
+.incorrect {
+  color: rgb(255, 166, 0);
+}
+
+@media (max-width: 600px) {
+  .incorrect {
+    display: block;
+  }
+}

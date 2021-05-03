@@ -1,0 +1,21 @@
+.end-screen div {
+  margin-bottom: 20px;
+  font: 24px;
+  text-align: center;
+}
+
+.end-screen h1 {
+  margin-bottom: 40px;
+}
+
+.correct {
+  color: #7cc6fe;
+}
+
+.incorrect {
+  color: rgb(255, 166, 0);
+}
+
+.time-left {
+  color: #710d99;
+}
